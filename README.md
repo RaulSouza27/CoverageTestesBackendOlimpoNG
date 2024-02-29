@@ -10,12 +10,12 @@ Nas implementações do device bulk há 84 linhas nas quais 84 linhas estão cob
 ### CronosNG
 Nas implementações do device CronosNGplus há 2026 linhas nas quais 1521 linhas estão cobertas por testes, isso corresponde a 75% de linhas cobertas com testes, conforme o grafico abaixo:
 
-![Gráfico das cobeturas de teste do CronosNG+]([Images/CronosNGmeter.png"](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/CronosNGmeter.png))
+![Gráfico das cobeturas de teste do CronosNG+](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/CronosNGmeter.png)
 
 ### Gateway
 Nas implementações do device Gateway há 1508 linhas nas quais 951 linhas estão cobertas por testes, isso corresponde a 36% de linhas cobertas com testes, conforme o grafico abaixo:
 
-![Gráfico das cobeturas de teste do Gateway]([Images/Gateway.png"](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/Gateway.png))
+![Gráfico das cobeturas de teste do Gateway](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/Gateway.png)
 
 (_A cobertura está baixa devido a 1 arquivo que contem funções com muitas linhas, só nesse arquivo há 685 linhas das quais apenas 44 estão cobertas por testes_)
 
