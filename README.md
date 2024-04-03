@@ -8,7 +8,7 @@ Nas implementações do device bulk há 84 linhas nas quais 84 linhas estão cob
 ![Gráfico das cobeturas de teste do BulkMeter](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/Bulkmeter.png)
 
 ### CronosNG
-Nas implementações do device CronosNGplus há 2389 linhas nas quais 1541 linhas estão cobertas por testes, isso corresponde a 64% de linhas cobertas com testes, conforme o grafico abaixo:
+Nas implementações do device CronosNGplus há 2389 linhas nas quais 1541 linhas estão cobertas por testes, isso corresponde a 64% de linhas cobertas com testes houve uma queda na cobertura de testes pois antes eram 2026 linhas nas quais 1521 linhas estão cobertas por testes, isso correspondia a 75% de linhas cobertas com testes, tal queda se deve as melhorias feitas no cronos ng. O atual percentual está no gráfico abaixo:
 
 ![Gráfico das cobeturas de teste do CronosNG+](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/CronosNGmeter.png)
 
