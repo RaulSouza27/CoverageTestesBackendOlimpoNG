@@ -8,16 +8,14 @@ Nas implementações do device bulk há 84 linhas nas quais 84 linhas estão cob
 ![Gráfico das cobeturas de teste do BulkMeter](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/Bulkmeter.png)
 
 ### CronosNG
-Nas implementações do device CronosNGplus há 2389 linhas nas quais 1541 linhas estão cobertas por testes, isso corresponde a 64% de linhas cobertas com testes houve uma queda na cobertura de testes pois antes eram 2026 linhas nas quais 1521 linhas estão cobertas por testes, isso correspondia a 75% de linhas cobertas com testes, tal queda se deve as melhorias feitas no cronos ng. O atual percentual está no gráfico abaixo:
+Nas implementações do device CronosNGplus há 2389 linhas nas quais 1405 linhas estão cobertas por testes, isso corresponde a 58% de linhas cobertas com testes, conforme o grafico abaixo:
 
 ![Gráfico das cobeturas de teste do CronosNG+](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/CronosNGmeter.png)
 
 ### Gateway
-Nas implementações do device Gateway há 1508 linhas nas quais 557 linhas estão cobertas por testes, isso corresponde a 36% de linhas cobertas com testes, conforme o grafico abaixo:
+Nas implementações do device Gateway há 2604 linhas nas quais 1273 linhas estão cobertas por testes, isso corresponde a 52% de linhas cobertas com testes, conforme o grafico abaixo:
 
 ![Gráfico das cobeturas de teste do Gateway](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/Gateway.png)
-
-(_A cobertura está baixa devido a 1 arquivo que contem funções com muitas linhas, só nesse arquivo há 685 linhas das quais apenas 44 estão cobertas por testes_)
 
 ### Pantheon
 Nas implementações do device Pantheon há 197 linhas nas quais 186 linhas estão cobertas por testes, isso corresponde a 94% de linhas cobertas com testes, conforme o grafico abaixo:
@@ -25,7 +23,7 @@ Nas implementações do device Pantheon há 197 linhas nas quais 186 linhas est�
 ![Gráfico das cobeturas de teste do Pantheon](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/Pantheon.png)
 
 ### Mono-phase Recloser
-Nas implementações do device Mono-phase Recloser há 3898 linhas nas quais 3315 linhas estão cobertas por testes, isso corresponde a 85% de linhas cobertas com testes, conforme o grafico abaixo:
+Nas implementações do device Mono-phase Recloser há 4594 linhas nas quais 3816 linhas estão cobertas por testes, isso corresponde a 83% de linhas cobertas com testes, conforme o grafico abaixo:
 
 ![Gráfico das cobeturas de teste do Mono-phase Recloser](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/Recloser.png)
 
@@ -35,7 +33,7 @@ Nas implementações do device Residencial Water Meter há 2006 linhas nas quais
 ![Gráfico das cobeturas de teste do Residencial Water Meter](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/watermeter.png)
 
 ### ZeusNG
-Nas implementações do device ZeusNG há 22802 linhas nas quais 11931 linhas estão cobertas por testes, isso corresponde a 52% de linhas cobertas com testes, conforme o grafico abaixo:
+Nas implementações do device ZeusNG há 22842 linhas nas quais 11948 linhas estão cobertas por testes, isso corresponde a 52% de linhas cobertas com testes, conforme o grafico abaixo:
 
 ![Gráfico das cobeturas de teste do ZeusNG](https://github.com/RaulSouza27/CoverageTestesBackendOlimpoNG/blob/main/Images/ZeusNG.png)
 
